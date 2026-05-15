@@ -1,0 +1,73 @@
+
+{
+  "id": "2026_T2",
+  "title": "Homens dos quais o Mundo não era Digno",
+  "themeColor": "1C3A5E",
+  "lessons": [
+    {
+      "id": "1",
+      "date": "5 de Abril de 2026",
+      "title": "Abraão: Seu Chamado e Sua Jornada de Fé",
+      "goldenText": "“Ora, o SENHOR disse a Abrão: Sai-te da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei.” (Gn 12.1)",
+      "practicalTruth": "O chamado de Deus na vida de Abraão e na nossa exige obediência irrestrita, fé e perseverança.",
+      "dailyReadings": [
+        "Segunda - Gn 12.3: O chamado para todas as famílias da Terra",
+        "Terça - Gn 12.1: O chamado de Abraão e a origem de uma nação",
+        "Quarta - Hb 11.1: Abraão não sabia definir a fé, mas a viveu",
+        "Quinta - Gn 12.10: Obstáculos no chamado divino",
+        "Sexta - Gn 12.15,16: Desafios éticos na chamada",
+        "Sábado - Gn 12.17,18: Deus zela pelos que Ele chama"
+      ],
+      "bibleReading": "Gênesis 12.1-9",
+      "suggestedHymns": [84, 126, 186],
+      "classPlan": "I) Apresentar como ocorreu o chamado; II) Enfatizar a obediência de Abrão; III) Mostrar as lutas enfrentadas ao chegar a Canaã.",
+      "introduction": "Neste trimestre, estudaremos a inspiradora jornada dos patriarcas Abraão, Isaque e Jacó — homens que aprenderam a crer, obedecer e esperar em Deus. Sua convocação implicava deixar sua terra natal e ir para um local que não conhecia. Era preciso fé e obediência.",
+      "keyword": "Fé",
+      "topics": [
+        {
+          "title": "I - DEUS CHAMA ABRÃO",
+          "text": "A fé de Abrão diante do chamado (Gn 12.1). Deus chamou Abrão e ordenou que ele saísse de sua terra, do meio de sua família e seus amigos, e fosse para um lugar desconhecido para ele. Seu chamado exigia fé e obediência irrestrita.",
+          "expandingKnowledge": "A Origem de Abraão: O relato em Gênesis detalha cem anos da vida de Abraão e move-se rapidamente pelos primeiros setenta e cinco anos de eventos. Ficamos sabendo que Abrão era filho de Terá, irmão de Harã e Naor, marido da estéril Sarai e tio de Ló.",
+          "subtopics": [
+            {
+              "title": "2. A promessa para Abrão",
+              "text": "As promessas feitas a Abrão não alcançariam somente ele, mas incluíam toda a humanidade. O que Deus prometeu ao patriarca marcaria a sua história e a de seus descendentes até os dias de hoje."
+            },
+            {
+              "title": "3. As bênçãos de Deus para Abrão",
+              "text": "O texto de Gênesis 12.1-3 nos mostra o chamado do patriarca que deu origem ao povo hebreu e à nação israelita. Quando Deus chamou Abrão, prometeu abençoá-lo grandemente."
+            }
+          ]
+        },
+        {
+          "title": "II - A OBEDIÊNCIA DE ABRÃO A DEUS",
+          "text": "Atendendo o chamado. Como homem de fé, Abrão atendeu ao chamado divino sem hesitar e partiu para a terra que Deus ordenou, sem saber onde se localizava, seguindo somente a direção do Senhor.",
+          "synopsis": "Abrão atendeu com fé ao chamado de Deus e obedeceu a Ele de forma irrestrita.",
+          "subtopics": [
+            {
+              "title": "2. Um descuido",
+              "text": "Já vimos que Abrão era um homem de fé, porém permitiu que seu sobrinho Ló o acompanhasse na jornada. Seu descuido ocasionou alguns problemas com seu sobrinho mais tarde."
+            },
+            {
+              "title": "3. A passagem por Harã",
+              "text": "Nem sempre Deus nos leva diretamente ao propósito que Ele definiu para nós. Antes de chegar a Canaã, Abrão e os que lhe acompanhavam tiveram que passar um tempo em Harã. Certamente, Deus queria forjar seu caráter."
+            }
+          ]
+        }
+      ],
+      "conclusion": "Como vimos, Abrão foi um homem escolhido por Deus para uma missão importantíssima: abençoar em Cristo todas as famílias da Terra. Diante da sua obediência e fé em cumprir sua missão, recebeu da parte de Deus promessas extraordinárias.",
+      "quiz": [
+        {
+          "id": 1,
+          "question": "De acordo com a lição, o que exigiu o chamado de Abrão?",
+          "answer": "Exigiu fé e obediência irrestrita."
+        },
+        {
+          "id": 2,
+          "question": "Quais são as bênçãos prometidas a Abrão segundo Gênesis 12.1-3?",
+          "answer": "Deus prometeu abençoá-lo grandemente (Gn 12.2b), engrandecer o nome de Abrão (v. 2) e abençoar os que o abençoarem."
+        }
+      ]
+    }
+  ]
+}
