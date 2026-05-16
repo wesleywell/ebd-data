@@ -1,10 +1,10 @@
 {
   "id": "2026_T2",
-  "title": "Homens dos quais o Mundo não era Digno",
+  "title": "Homens dos quali o Mundo não era Digno",
   "themeColor": "1C3A5E",
   "coverImageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/refs/heads/main/images/capa_2026_t2.jpg",
   "editorial": {
-    "presentation": "Prezado(a) Professor(a),\n\nNeste trimestre, estudaremos a inspiradora jornada dos patriarcas Abraão, Isaque e Jacó — homens que aprenderam a crer, obedecer e esperar em Deus. Suas histórias nos revelam que a fé não é uma ideia abstrata, mas uma caminhada concreta, marcada por provas, promessas e experiências profundas com o Senhor.\n\nA vida de Abraão nos mostra que a fé genuína exige deixar a segurança do conhecido para confiar na direção divina. Em Isaque, contemplamos o cumprimento das promessas de Deus no tempo certo. Em Jacó, vemos o processo de transformação de um homem comum em um instrumento da aliança. Em cada um deles, encontramos um reflexo da fidelidade de Deus e do amadurecimento da fé em Cristo.\n\nAo estudarmos \"A Fé dos Patriarcas\", aprenderemos que o Deus de ontem é o mesmo de hoje — fiel, soberano e digno de total confiança. Que cada lição desperte em nós a coragem de Abraão, a perseverança de Isaque e a rendição de Jacó, conduzindo-nos a uma fé viva, provada e vitoriosa.\n\nBom trimestre!\n\nJosé Wellington Bezerra da Costa\nPresidente do Conselho Administrativo\n\nRonaldo Rodrigues de Souza\nDiretor Executivo",
+    "presentation": "Prezado(a) Professor(a),\n\nNeste trimestre, estudaremos...",
     "presidentCGADB": "José Wellington Costa Junior",
     "presidentConselho": "José Wellington Bezerra da Costa",
     "executiveDirector": "Ronaldo Rodrigues de Souza",
@@ -34,49 +34,36 @@
       "date": "5 de Abril de 2026",
       "title": "Abraão: Seu Chamado e Sua Jornada de Fé",
       "imageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/refs/heads/main/images/licao1.jpg",
-      "goldenText": "“Ora, o SENHOR disse a Abrão: Sai-te da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei.” (Gn 12.1)",
-      "practicalTruth": "O chamado de Deus na vida de Abraão e na nossa exige obediência irrestrita, fé e perseverança.",
+      "goldenText": "“Ora, o SENHOR disse a Abrão... (Gn 12.1)",
+      "practicalTruth": "O chamado de Deus na vida de Abraão exige obediência...",
       "dailyReadings": [
-        "Segunda - Gn 12.3: O chamado para todas as famílias da Terra",
-        "Terça - Gn 12.1: O chamado de Abraão e a origem de uma nation"
+        "Segunda - Gn 12.3: O chamado para todas as famílias",
+        "Terça - Gn 12.1: O chamado de Abraão"
       ],
-      "bibleReading": "Gênesis 12.1-9 ¹ Ora, o Senhor disse a Abrão...",
+      "bibleReading": "Gênesis 12.1-9",
       "suggestedHymns": [84, 126, 186],
       "classPlan": "1. INTRODUÇÃO...",
-      "introduction": "Neste trimestre, estudaremos a inspiradora jornada dos patriarcas Abraão, Isaque e Jacó...",
+      "introduction": "Neste trimestre, estudaremos...",
       "keyword": "Fé",
       "topics": [
         {
           "title": "I - DEUS CHAMA ABRÃO",
-          "synopsis": "Pela fé, Abrão aceitou o chamado de Deus e foi para uma terra que ele não conhecia.",
-          "expandingKnowledge": "A Origem de Abraão: O relato em Gênesis detalha cem anos...",
+          "synopsis": "Pela fé, Abrão aceitou o chamado...",
+          "expandingKnowledge": "A Origem de Abraão...",
           "subtopics": [
             {
               "title": "1. A fé de Abrão diante do chamado",
-              "text": "A fé de Abrão diante do chamado (Gn 12.1). Deus chamou Abrão e ordenou que ele saísse de sua terra, do meio de sua família e seus amigos, e fosse para um lugar desconhecido para ele. Seu chamado exigia fé e obediência irrestrita. Hoje, estamos habituados a confiar em tecnologias como o GPS..."
-            },
-            {
-              "title": "2. A promessa para Abrão",
-              "text": "As promessas feitas a Abrão não alcançariam somente ele..."
-            },
-            {
-              "title": "3. As bênçãos de Deus para Abrão",
-              "text": "O texto de Gênesis 12.1-3 nos mostra o chamado..."
+              "text": "Deus chamou Abrão e ordenou que ele saísse..."
             }
           ]
         }
       ],
-      "conclusion": "Como vimos, Abrão foi um homem escolhido...",
+      "conclusion": "Como vimos, Abrão foi um homem...",
       "quiz": [
         {
           "id": 1,
           "question": "De acordo com a lição, o que exigiu o chamado de Abrão?",
           "answer": "Exigiu fé e obediência irrestrita."
-        },
-        {
-          "id": 2,
-          "question": "Qual é a segunda pergunta do questionário de teste?",
-          "answer": "Esta é a resposta correta mapeada dinamicamente do GitHub."
         }
       ]
     }
