@@ -4,11 +4,29 @@
   "themeColor": "1C3A5E",
   "coverImageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/refs/heads/main/images/capa_2026_t2.jpg",
   "editorial": {
-  "presentation": "CONVENÇÃO GERAL DAS ASSEMBLEIAS DE DEUS NO BRASIL\nPresidente: José Wellington Costa Junior\n\nCONSELHO ADMINISTRATIVO\nPresidente: José Wellington Bezerra da Costa\n\nDIRETORIA EXECUTIVA\nDiretor Executivo: Ronaldo Rodrigues de Souza\nGerente de Publicações: Alexandre Claudino Coelho\nConsultor Doutrinário e Teológico: Elienai Cabral\nGerente Financeiro: Josafá Franklin Santos Bomfim\nGerente de Produção: Jarbas Ramires Silva\nGerente Comercial: Cícero da Silva\nGerente da Rede de Lojas: João Batista Guilherme da Silva\nGerente de TI: Rodrigo Sobral Fernandes\nGerente de Comunicação: Leandro Souza da Silva\nChefe do Setor de Educação Cristã: Marcelo Oliveira\nChefe do Setor de Arte & Design: Wagner de Almeida\nEditor: Marcelo Oliveira\nRevisor: Miquéias Nascimento\nProjeto Gráfico: Leonardo Engel | Marlon Soares\nDiagramação e Capa: Leonardo Engel\n\nCONTATO & ENDEREÇO\nAv. Brasil, 34.401 - Bangu - Rio de Janeiro - RJ - CEP 21852-002\nTel.: (21) 2406-7373\nSite: www.cpad.com.br\n\n--------------------------------------------------\n\nLIÇÕES BÍBLICAS\n\nPrezado(a) Professor(a),\n\nNeste trimestre, estudaremos a inspiradora jornada dos patriarcas Abraão, Isaque e Jacó — homens que aprenderam a crer, obedecer e esperar em Deus. Suas histórias nos revelam que a fé não é uma ideia abstrata, mas uma caminhada concreta, marcada por provas, promessas e experiências profundas com o Senhor.\n\nA vida de Abraão nos mostra que a fé genuína exige deixar a segurança do conhecido para confiar na direção divina. Em Isaque, contemplamos o cumprimento das promessas de Deus no tempo certo. Em Jacó, vemos o processo de transformação de um homem comum em um instrumento da aliança. Em cada um deles, encontramos um reflexo da fidelidade de Deus e do amadurecimento da fé em Cristo.\n\nAo estudarmos \"A Fé dos Patriarcas\", aprenderemos que o Deus de ontem é o mesmo de hoje — fiel, soberano e digno de total confiança. Que cada lição desperte em nós a coragem de Abraão, a perseverança de Isaque e a rendição de Jacó, conduzindo-nos a uma fé viva, provada e vitoriosa.\n\nBom trimestre!\n\nJosé Wellington Bezerra da Costa\nPresidente do Conselho Administrativo\n\nRonaldo Rodrigues de Souza\nDiretor Executivo",
-  "presidentCGADB": "José Wellington Costa Junior",
-  "presidentConselho": "José Wellington Bezerra da Costa",
-  "executiveDirector": "Ronaldo Rodrigues de Souza",
-  "tiManager": "Rodrigo Sobral Fernandes"
+    "presentation": "Prezado(a) Professor(a),\n\nNeste trimestre, estudaremos a inspiradora jornada dos patriarcas Abraão, Isaque e Jacó — homens que aprenderam a crer, obedecer e esperar em Deus. Suas histórias nos revelam que a fé não é uma ideia abstrata, mas uma caminhada concreta, marcada por provas, promessas e experiências profundas com o Senhor.\n\nA vida de Abraão nos mostra que a fé genuína exige deixar a segurança do conhecido para confiar na direção divina. Em Isaque, contemplamos o cumprimento das promessas de Deus no tempo certo. Em Jacó, vemos o processo de transformação de um homem comum em um instrumento da aliança. Em cada um deles, encontramos um reflexo da fidelidade de Deus e do amadurecimento da fé em Cristo.\n\nAo estudarmos \"A Fé dos Patriarcas\", aprenderemos que o Deus de ontem é o mesmo de hoje — fiel, soberano e digno de total confiança. Que cada lição desperte em nós a coragem de Abraão, a perseverança de Isaque e a rendição de Jacó, conduzindo-nos a uma fé viva, provada e vitoriosa.\n\nBom trimestre!\n\nJosé Wellington Bezerra da Costa\nPresidente do Conselho Administrativo\n\nRonaldo Rodrigues de Souza\nDiretor Executivo",
+    "presidentCGADB": "José Wellington Costa Junior",
+    "presidentConselho": "José Wellington Bezerra da Costa",
+    "executiveDirector": "Ronaldo Rodrigues de Souza",
+    "tiManager": "Rodrigo Sobral Fernandes",
+    "gerentePublicacoes": "Alexandre Claudino Coelho",
+    "consultorDoutrinario": "Elienai Cabral",
+    "gerenteFinanceiro": "Josafá Franklin Santos Bomfim",
+    "gerenteProducao": "Jarbas Ramires Silva",
+    "gerenteComercial": "Cícero da Silva",
+    "gerenteLojas": "João Batista Guilherme da Silva",
+    "gerenteComunicacao": "Leandro Souza da Silva",
+    "chefeEducacaoCrista": "Marcelo Oliveira",
+    "chefeArteDesign": "Wagner de Almeida",
+    "editor": "Marcelo Oliveira",
+    "revisor": "Miquéias Nascimento",
+    "projetoGrafico": "Leonardo Engel | Marlon Soares",
+    "diagramacaoCapa": "Leonardo Engel",
+    "endereco": "Av. Brasil, 34.401 - Bangu",
+    "cidadeEstado": "Rio de Janeiro - RJ",
+    "cep": "CEP 21852-002",
+    "telefone": "Tel: (21) 2406-7373",
+    "site": "www.cpad.com.br"
   },
   "lessons": [
     {
@@ -54,6 +72,11 @@
           "id": 1,
           "question": "De acordo com a lição, o que exigiu o chamado de Abrão?",
           "answer": "Exigiu fé e obediência irrestrita."
+        },
+        {
+          "id": 2,
+          "question": "Qual é a segunda pergunta do questionário de teste?",
+          "answer": "Esta é a resposta correta mapeada dinamicamente do GitHub."
         }
       ]
     }
