@@ -112,6 +112,114 @@
       "conclusion": "Como vimos, Abrão foi um homem escolhido por Deus para uma missão importantíssima: abençoar em Cristo todas as famílias da Terra...",
       "quiz": [
         {
+          "id": 2,
+          "question": "De acordo com a lição, o que exigiu o chamado de Abrão?",
+          "answer": "Exigiu fé e obediência irrestrita."
+        },
+        {
+          "id": 2,
+          "question": "Quais são as bênçãos prometidas a Abrão segundo Gênesis 12.1-3?",
+          "answer": "Deus prometeu abençoá-lo grandemente (Gn 12.2b), engrandecer o nome de Abrão (v.2) e 'e abençoarei os que te abençoarem...'"
+        },
+        {
+          "id": 3,
+          "question": "Segundo a lição, qual o significado do nome Abraão?",
+          "answer": "“Pai de muitas nações.”"
+        },
+        {
+          "id": 4,
+          "question": "O que aprendemos com a chamada de Abrão?",
+          "answer": "Aprendemos com a chamada de Abrão que, durante a nossa jornada nesta Terra, precisamos abandonar algumas práticas que não são mais compatíveis com a fé em Deus."
+        },
+        {
+          "id": 5,
+          "question": "O que Abrão encontrou ao chegar a Canaã? Para onde ele se dirigiu?",
+          "answer": "Ele encontrou fome. Abrão foi para o Egito."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "date": "5 de Abril de 2026",
+      "title": "Abraão: Seu Chamado e Sua Jornada de Fé",
+      "imageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/main/images/licao1.jpg",
+      "goldenText": "Ora, o SENHOR disse a Abrão: Sai-te da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei. (Gn 12.1)",
+      "practicalTruth": "O chamado de Deus na vida de Abraão e na nossa exige obediência irrestrita, fé e perseverança.",
+      "dailyReadings": [
+        "Segunda - Gn 12.3: O chamado para todas as famílias da Terra",
+        "Terça - Gn 12.1: O chamado de Abraão e a origem de uma nação",
+        "Quarta - Hb 11.1: Abraão não sabia definir a fé, mas a viveu",
+        "Quinta - Gn 12.10: Obstáculos no chamado divino",
+        "Sexta - Gn 12.15,16: Desafios éticos na chamada",
+        "Sábado - Gn 12.17,18: Deus zela pelos que Ele chama"
+      ],
+      "bibleReading": "Gênesis 12.1-9. 1: - Ora, o SENHOR disse a Abrão: Sai-te da tua terra... 2 — E far-te-ei uma grande nação... 3 — E abençoarei os que te abençoarem... 4 — Assim, partiu Abrão... 5 — E tomou Abrão a Sarai... 6 — E passou Abrão por aquela terra... 7 — E apareceu o SENHOR a Abrão... 8 — E moveu-se dali para a montanha... 9 — Depois, caminhou Abrão dali, seguindo ainda para a banda do Sul.",
+      "suggestedHymns": [84, 126, 186],
+      "classPlan": "1. INTRODUÇÃO Prezado(a) professor(a), neste trimestre estudaremos o legado de fé do patriarca Abraão...",
+      "introduction": "Neste trimestre, estudaremos a jornada de fé dos patriarcas Abraão, Isaque e Jacó...",
+      "keyword": "Fé",
+      "topics": [
+        {
+          "title": "I - DEUS CHAMA ABRÃO",
+          "synopsis": "Pela fé, Abrão aceitou o chamado de Deus e foi para uma terra que ele não conhecia.",
+          "expandingKnowledge": "A Origem de Abraão: O relato em Gênesis detalha cem anos...",
+          "subtopics": [
+            {
+              "title": "1. A fé de Abrão diante do chamado (Gn 12.1)",
+              "text": "A fé de Abrão diante do chamado (Gn 12.1). Deus chamou Abrão e ordenou que ele saísse de sua terra, do meio de sua família e seus amigos, e fosse para um lugar desconhecido para ele..."
+            },
+            {
+              "title": "2. A promessa para Abrão.",
+              "text": "As promessas feitas a Abrão não alcançariam somente ele, mas incluíam toda a humanidade. O que Deus prometeu ao patriarca marcaria a sua história..."
+            },
+            {
+              "title": "3. As bênçãos de Deus para Abrão.",
+              "text": "O texto de Gênesis 12.1-3 nos mostra o chamado do patriarca que deu origem ao povo hebreu e à nação israelita. Quando Deus chamou Abrão, prometeu abençoá-lo grandemente..."
+            }
+          ]
+        },
+        {
+          "title": "II. A OBEDIÊNCIA DE ABRÃO A DEUS",
+          "synopsis": "Abrão atendeu com fé ao chamado de Deus e obedeceu a Ele de forma irrestrita.",
+          "expandingKnowledge": "OBEDIÊNCIA. Um conceito central em ambos os Testamentos... (Dicionário Bíblico Baker, p.362)",
+          "subtopics": [
+            {
+              "title": "1. Atendendo o chamado",
+              "text": "Como homem de fé, Abrão atendeu ao chamado divino sem hesitar e partiu para a terra que Deus ordenou, sem saber onde se localizava..."
+            },
+            {
+              "title": "2. O erro de levar a parentela",
+              "text": "Já vimos que Abrão era um homem de fé, porém permitiu que seu sobrinho Ló o acompanhasse na jornada. Tempos depois, seu descuido ocasionou alguns problemas..."
+            },
+            {
+              "title": "3. A passagem por Harã.",
+              "text": "Assim, Abrão saiu da Caldeia, em direção a uma terra escolhida por Deus. Tenha cuidado, pois, sempre que deixamos de obedecer de forma irrestrita ao Senhor, os problemas surgem."
+            }
+          ]
+        },
+        {
+          "title": "III. AS LUTAS QUE ABRÃO ENFRENTOU AO CHEGAR A CANAÃ",
+          "synopsis": "Abrão enfrentou lutas ao chegar a Canaã, mas sua fé inabalável o fez vencer.",
+          "expandingKnowledge": "",
+          "subtopics": [
+            {
+              "title": "1. A dificuldade contra a fome.",
+              "text": "Depois que Abrão chegou a Canaã, deparou-se com um acontecimento frustrante. Diz a Bíblia que: 'E havia fome naquela terra; e desceu Abrão ao Egito...' (Gn 12.10)."
+            },
+            {
+              "title": "2. A dificuldade de ir para o lugar certo.",
+              "text": "Havia fome na terra. Então, para onde ir? Parece estranho o fato de Deus tirar Abrão da sua terra e conduzi-lo a um lugar em que havia escassez. No entanto, Abrão estava na direção certa..."
+            },
+            {
+              "title": "3. A dificuldade em falar a verdade.",
+              "text": "Abrão mentiu a respeito de Sarai porque teve medo de que os egípcios o matassem quando soubessem que era sua esposa. Contudo, o Senhor com sua graça livrou-o."
+            }
+          ]
+        }
+      ],
+      "conclusion": "Como vimos, Abrão foi um homem escolhido por Deus para uma missão importantíssima: abençoar em Cristo todas as famílias da Terra...",
+      "quiz": [
+        {
           "id": 1,
           "question": "De acordo com a lição, o que exigiu o chamado de Abrão?",
           "answer": "Exigiu fé e obediência irrestrita."
@@ -138,7 +246,113 @@
         }
       ]
     },
-    { "id": 2, "date": "12 de Abril de 2026", "title": "Template Lição 2", "imageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/main/images/licao1.jpg", "topics": [], "quiz": [] },
-    { "id": 3, "date": "19 de Abril de 2026", "title": "Template Lição 3", "imageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/main/images/licao1.jpg", "topics": [], "quiz": [] }
+    {
+      "id": 3,
+      "date": "5 de Abril de 2026",
+      "title": "Abraão: Seu Chamado e Sua Jornada de Fé",
+      "imageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/main/images/licao1.jpg",
+      "goldenText": "Ora, o SENHOR disse a Abrão: Sai-te da tua terra, e da tua parentela, e da casa de teu pai, para a terra que eu te mostrarei. (Gn 12.1)",
+      "practicalTruth": "O chamado de Deus na vida de Abraão e na nossa exige obediência irrestrita, fé e perseverança.",
+      "dailyReadings": [
+        "Segunda - Gn 12.3: O chamado para todas as famílias da Terra",
+        "Terça - Gn 12.1: O chamado de Abraão e a origem de uma nação",
+        "Quarta - Hb 11.1: Abraão não sabia definir a fé, mas a viveu",
+        "Quinta - Gn 12.10: Obstáculos no chamado divino",
+        "Sexta - Gn 12.15,16: Desafios éticos na chamada",
+        "Sábado - Gn 12.17,18: Deus zela pelos que Ele chama"
+      ],
+      "bibleReading": "Gênesis 12.1-9. 1: - Ora, o SENHOR disse a Abrão: Sai-te da tua terra... 2 — E far-te-ei uma grande nação... 3 — E abençoarei os que te abençoarem... 4 — Assim, partiu Abrão... 5 — E tomou Abrão a Sarai... 6 — E passou Abrão por aquela terra... 7 — E apareceu o SENHOR a Abrão... 8 — E moveu-se dali para a montanha... 9 — Depois, caminhou Abrão dali, seguindo ainda para a banda do Sul.",
+      "suggestedHymns": [84, 126, 186],
+      "classPlan": "1. INTRODUÇÃO Prezado(a) professor(a), neste trimestre estudaremos o legado de fé do patriarca Abraão...",
+      "introduction": "Neste trimestre, estudaremos a jornada de fé dos patriarcas Abraão, Isaque e Jacó...",
+      "keyword": "Fé",
+      "topics": [
+        {
+          "title": "I - DEUS CHAMA ABRÃO",
+          "synopsis": "Pela fé, Abrão aceitou o chamado de Deus e foi para uma terra que ele não conhecia.",
+          "expandingKnowledge": "A Origem de Abraão: O relato em Gênesis detalha cem anos...",
+          "subtopics": [
+            {
+              "title": "1. A fé de Abrão diante do chamado (Gn 12.1)",
+              "text": "A fé de Abrão diante do chamado (Gn 12.1). Deus chamou Abrão e ordenou que ele saísse de sua terra, do meio de sua família e seus amigos, e fosse para um lugar desconhecido para ele..."
+            },
+            {
+              "title": "2. A promessa para Abrão.",
+              "text": "As promessas feitas a Abrão não alcançariam somente ele, mas incluíam toda a humanidade. O que Deus prometeu ao patriarca marcaria a sua história..."
+            },
+            {
+              "title": "3. As bênçãos de Deus para Abrão.",
+              "text": "O texto de Gênesis 12.1-3 nos mostra o chamado do patriarca que deu origem ao povo hebreu e à nação israelita. Quando Deus chamou Abrão, prometeu abençoá-lo grandemente..."
+            }
+          ]
+        },
+        {
+          "title": "II. A OBEDIÊNCIA DE ABRÃO A DEUS",
+          "synopsis": "Abrão atendeu com fé ao chamado de Deus e obedeceu a Ele de forma irrestrita.",
+          "expandingKnowledge": "OBEDIÊNCIA. Um conceito central em ambos os Testamentos... (Dicionário Bíblico Baker, p.362)",
+          "subtopics": [
+            {
+              "title": "1. Atendendo o chamado",
+              "text": "Como homem de fé, Abrão atendeu ao chamado divino sem hesitar e partiu para a terra que Deus ordenou, sem saber onde se localizava..."
+            },
+            {
+              "title": "2. O erro de levar a parentela",
+              "text": "Já vimos que Abrão era um homem de fé, porém permitiu que seu sobrinho Ló o acompanhasse na jornada. Tempos depois, seu descuido ocasionou alguns problemas..."
+            },
+            {
+              "title": "3. A passagem por Harã.",
+              "text": "Assim, Abrão saiu da Caldeia, em direção a uma terra escolhida por Deus. Tenha cuidado, pois, sempre que deixamos de obedecer de forma irrestrita ao Senhor, os problemas surgem."
+            }
+          ]
+        },
+        {
+          "title": "III. AS LUTAS QUE ABRÃO ENFRENTOU AO CHEGAR A CANAÃ",
+          "synopsis": "Abrão enfrentou lutas ao chegar a Canaã, mas sua fé inabalável o fez vencer.",
+          "expandingKnowledge": "",
+          "subtopics": [
+            {
+              "title": "1. A dificuldade contra a fome.",
+              "text": "Depois que Abrão chegou a Canaã, deparou-se com um acontecimento frustrante. Diz a Bíblia que: 'E havia fome naquela terra; e desceu Abrão ao Egito...' (Gn 12.10)."
+            },
+            {
+              "title": "2. A dificuldade de ir para o lugar certo.",
+              "text": "Havia fome na terra. Então, para onde ir? Parece estranho o fato de Deus tirar Abrão da sua terra e conduzi-lo a um lugar em que havia escassez. No entanto, Abrão estava na direção certa..."
+            },
+            {
+              "title": "3. A dificuldade em falar a verdade.",
+              "text": "Abrão mentiu a respeito de Sarai porque teve medo de que os egípcios o matassem quando soubessem que era sua esposa. Contudo, o Senhor com sua graça livrou-o."
+            }
+          ]
+        }
+      ],
+      "conclusion": "Como vimos, Abrão foi um homem escolhido por Deus para uma missão importantíssima: abençoar em Cristo todas as famílias da Terra...",
+      "quiz": [
+        {
+          "id": 1,
+          "question": "De acordo com a lição, o que exigiu o chamado de Abrão?",
+          "answer": "Exigiu fé e obediência irrestrita."
+        },
+        {
+          "id": 2,
+          "question": "Quais são as bênçãos prometidas a Abrão segundo Gênesis 12.1-3?",
+          "answer": "Deus prometeu abençoá-lo grandemente (Gn 12.2b), engrandecer o nome de Abrão (v.2) e 'e abençoarei os que te abençoarem...'"
+        },
+        {
+          "id": 3,
+          "question": "Segundo a lição, qual o significado do nome Abraão?",
+          "answer": "“Pai de muitas nações.”"
+        },
+        {
+          "id": 4,
+          "question": "O que aprendemos com a chamada de Abrão?",
+          "answer": "Aprendemos com a chamada de Abrão que, durante a nossa jornada nesta Terra, precisamos abandonar algumas práticas que não são mais compatíveis com a fé em Deus."
+        },
+        {
+          "id": 5,
+          "question": "O que Abrão encontrou ao chegar a Canaã? Para onde ele se dirigiu?",
+          "answer": "Ele encontrou fome. Abrão foi para o Egito."
+        }
+      ]
+    }
   ]
 }
