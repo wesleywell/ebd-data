@@ -1,9 +1,9 @@
 {
-  "id": "2025_T3",
+  "id": "2025_T4",
   "title": "A Igreja dos Gentios — Da chamada missionária à consolidação do Evangelho entre os povos",
   "themeColor": "1C3A5E",
   "coverImageUrl": "https://github.com/wesleywell/ebd-data/blob/main/images/capa_2026_t3.png?raw=true",
-  "releaseDate":"2026-07-01",
+  "releaseDate":"2025-07-01",
   "editorial": {
     "title": "LIÇÕES BÍBLICAS",
     "presentation": "",
@@ -33,7 +33,7 @@
   "lessons": [
     {
       "id": 1,
-      "date": "5 de Julho de 2026",
+      "date": "5 de Julho de 2025",
       "title": "O chamado para os gentios",
       "imageUrl": "https://github.com/wesleywell/ebd-data/blob/main/images/licao1_2026_t3.png?raw=true",
       "goldenText": "E, servindo eles ao Senhor e jejuando, disse o Espírito Santo: Apartai-me a Barnabé e a Saulo para a obra a que os tenho chamado.” (At 13.2).",
@@ -156,7 +156,7 @@
     },
     {
       "id": 2,
-      "date": "12 de Julho de 2026",
+      "date": "12 de Julho de 2025",
       "title": "A porta da fé se abre entre os gentios",
       "imageUrl": "https://raw.githubusercontent.com/wesleywell/ebd-data/main/images/licao2_2026_t3.jpg",
       "goldenText": "“Porque o Senhor assim no-lo mandou: Eu te pus para luz dos gentios, para que sejas de salvação até aos confins da terra.” (At 13.47).",
