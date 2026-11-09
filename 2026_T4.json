@@ -6,17 +6,17 @@
   "releaseDate":"2026-10-01",
   "editorial": {
     "title": "LIÇÕES BÍBLICAS",
-    "presentation": "",
+    "presentation": "Osiel Gomes",
     "presidentCGADB": "José Wellington Costa Junior",
     "presidentConselho": "José Wellington Bezerra da Costa",
     "executiveDirector": "Ronaldo Rodrigues de Souza",
-    "gerenteTI": "Rodrigo Sobral Fernandes",
     "gerentePublicacoes": "Alexandre Claudino Coelho",
     "consultorDoutrinario": "Elienai Cabral",
     "gerenteFinanceiro": "Josafá Franklin Santos Bomfim",
     "gerenteProducao": "Jarbas Ramires Silva",
     "gerenteComercial": "Cícero da Silva",
     "gerenteLojas": "João Batista Guilherme da Silva",
+    "gerenteTI": "Rodrigo Sobral Fernandes",
     "gerenteComunicacao": "Leandro Souza da Silva",
     "chefeEducacaoCrista": "Marcelo Oliveira",
     "chefeArteDesign": "Wagner de Almeida",
@@ -28,7 +28,8 @@
     "cidadeEstado": "Rio de Janeiro - RJ",
     "cep": "CEP 21852-002",
     "telefone": "Tel: (21) 2406-7373",
-    "site": "www.cpad.com.br"
+    "site": "www.cpad.com.br",
+    "Text":"" 
   },
   "lessons": [
     {
